@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="AdminLogin" src="https://github.com/user-attachments/assets/b8610b8c-63ee-4e6f-86c6-97fa19518fff" /># Student_forum
 Student Forum Website (PHP)
 - **Description:** A platform for university students to communicate, share news, and manage activities.
 - **Technologies:** PHP, MySQL (XAMPP), HTML, CSS, Bootstrap, JavaScript
