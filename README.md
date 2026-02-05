@@ -1,4 +1,4 @@
-Student Forum Website (PHP)
+# Student Forum Website (PHP)
 - **Description:** A platform for university students to communicate, share news, and manage activities.
 - **Technologies:** PHP, MySQL (XAMPP), HTML, CSS, Bootstrap, JavaScript
 - **Features:**
