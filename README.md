@@ -11,3 +11,6 @@ Student Forum Website (PHP)
   2. Copy the project folder into `htdocs`.
   3. Import the database `.sql` file (if included) via **phpMyAdmin**.
   4. Open the project in your browser: `http://localhost/[project-folder]`.
+
+### Home Page
+![home page](screenshot/home.png)
