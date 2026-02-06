@@ -28,20 +28,20 @@
 ### Student Posting Page
 ![studentPostUpload Page](screenshots/studentPostUpload.png)
 
-### Student Signup Page
-![Signup Page](screenshots/studentSignup.png)
+### Student ProfileView Page
+![studentProfileView Page](screenshots/studentProfileView.png)
 
-### Student Signup Page
-![Signup Page](screenshots/studentSignup.png)
+### Admin Login Page
+![AdminLogin Page](screenshots/AdminLogin.png)
 
-### Student Signup Page
-![Signup Page](screenshots/studentSignup.png)
+### Admin Dashboard Page
+![AdminDashboard Page](screenshots/AdminDashboard.png)
 
-### Student Signup Page
-![Signup Page](screenshots/studentSignup.png)
+### Post Manipulation Page
+![AdminManipulatePost Page](screenshots/AdminManipulatePost.png)
 
-### Student Signup Page
-![Signup Page](screenshots/studentSignup.png)
+### Account Manipulation Page
+![AdminManipulateStudent Page](screenshots/AdminManipulateStudent.png)
 
 <p align="center">
   <strong>Thanks for your attention!</strong>
